@@ -9,15 +9,15 @@ class Q1 {
 		char c3 = '1';
 		char c4 = '2';
 		int inx = 2;
-		/*  ¹®Á¦) À§ °´Ã¼¸¦ ÀÌ¿ëÇÏ¿©
-		 	1. 12 Ãâ·Â
-			2. true Ãâ·Â
-			3. 131 Ãâ·Â
-			4. 51 Ãâ·Â
-			5. 99 Ãâ·Â    */
+		/*  ë¬¸ì œ) ìœ„ ê°ì²´ë¥¼ ì´ìš©í•˜ì—¬
+		 	1. 12 ì¶œë ¥
+			2. true ì¶œë ¥
+			3. 131 ì¶œë ¥
+			4. 51 ì¶œë ¥
+			5. 99 ì¶œë ¥    */
 		System.out.println( s1 + s2); 
 		System.out.println( !bnx );
-		System.out.println(	c1 + c2 );
+		System.out.println( c1 + c2 );
 		System.out.println( c3 + inx);
 		System.out.println( c3 + c4 );
 	}
