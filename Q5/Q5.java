@@ -11,7 +11,7 @@ public class Q5 {
 		long l = 27000000000l;
 		float f2 = 0.1f;
 		double d = 0.1;
-		boolean result = (float)d == 0.1f;
+		boolean result = (float)d == f2;
 		
 		/* 문제) 변수 선언이 아래와 같이 되어 있을 때 실행 결과와 같이 출력 될 수 있도록 프로그램 하시오.
 				c=30
