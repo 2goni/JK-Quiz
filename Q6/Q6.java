@@ -9,7 +9,7 @@ public class Q6 {
 		   단, 연산처리는 삼항 연산자를 이용한다.
 		 */
 		
-		System.out.println(result);
+		System.out.println("선언 변수 " + i + "일때 결과:\n숫자 " + i +"는 " + result + "입니다");
 		
 	}
 
